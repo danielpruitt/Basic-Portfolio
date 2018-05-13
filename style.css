@@ -1,0 +1,46 @@
+header {
+    background:#ffffff;
+    height:100px
+}
+.head {
+    background: #4aaaa5;
+    height:80px;
+    width:250px;
+    text-align:center;
+    padding:10px;
+    font-family:'Georgia',Times Georgia, 'Times New Roman', Times, serif;
+    color:#ffffff;
+    float:left;
+}
+
+li {
+    display:inline;
+    list-style-type:none;
+    margin:10px;
+    padding:10px;
+    font-family:'Arial','Helvetica Neue', Arial, Helvetica, sans-serif;
+    
+}
+
+body {
+   
+    background:url(assets/stardust.png);
+    width:960px;
+    height:960px;
+    text-align:center;
+    margin:auto;
+}
+
+img{
+    width:25%;
+    height:25%;
+    top:200px;
+    right:1px;
+    position:relative;
+
+}
+
+.content {
+    background:#555151;
+    height:960px
+}
