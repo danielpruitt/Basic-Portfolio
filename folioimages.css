@@ -1,0 +1,20 @@
+div .polaroid {
+    width:50%;
+    height:50%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin: 0 auto;
+    padding:10px
+ 
+}
+
+/* div.container {
+    text-align: center;
+    padding: 60px 20px;
+} */
+
+.imgsize{
+    width:50%;
+    height:50;
+    margin: 0 auto;
+}
